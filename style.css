@@ -1,0 +1,54 @@
+body {
+  
+  background-color:#006A89;
+  color: darkblue;
+  text-align: center;
+}
+
+  #cartoon_name{
+  text-decoration:underline;
+  font-size;40px;
+}
+
+h1{
+  color: white;
+  border:none;
+   none: outline;
+   padding: 10px; 
+  border-style:solid;
+  border-color:yellow;
+  
+}
+
+  h2, h3, h4, h6{
+  color: white;
+  border:none;
+   none: outline;
+   padding: 10px; 
+}
+
+  a{
+  
+  color: Black;
+  font-size: 20px;
+  border-style: solid;
+  boder-color: darkpurple;
+  border-width: 2px;
+  padding: 10px;
+  boder-radius: 20px; 
+}
+
+  p{
+    
+  color: red;
+  word-spacing: 10px;
+  font_variant: small-caps;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.more_about_cartoon{
+  
+  color: darkblue;
+  font_size: 18px;
+}
